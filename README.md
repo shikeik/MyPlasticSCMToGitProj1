@@ -1,0 +1,2 @@
+# MyPlasticSCMToGitProj1
+测试PlasticSCM做客户端用于Github仓库
